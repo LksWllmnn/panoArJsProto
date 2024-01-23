@@ -1,0 +1,12 @@
+<krpano>
+
+		<data name="TestText">
+		<![CDATA[
+
+			<div style="padding:10px; color: white; font-size: 15px; font-family: BechtleFont ; scrollbar-color: green;"> 
+				Hi, irgend ein Text mit link!
+				<a href="../ARSite.html" target="_blank">> Zum AR.html <</a>
+			</div>
+		]]>
+  	</data>
+</krpano>
